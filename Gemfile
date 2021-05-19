@@ -13,7 +13,7 @@ gem 'pg'
 gem 'pry', '~> 0.12.2'
 # Use Puma as the app server
 # gem 'puma', '~> 3.12'
-gem 'puma', '~> 3.12.2'
+gem 'puma', '~> 4.3.8'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5'
